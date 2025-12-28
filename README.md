@@ -62,6 +62,7 @@ const muskan = {
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -81,15 +82,21 @@ const muskan = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskanjaiswal2000&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats"/>
+  <a href="https://github.com/muskanjaiswal2000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskanjaiswal2000&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=15&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9" alt="GitHub Stats"/>
+  </a>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanjaiswal2000&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <a href="https://github.com/muskanjaiswal2000">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanjaiswal2000&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" alt="GitHub Streak"/>
+  </a>
   
 </div>
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjaiswal2000&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/muskanjaiswal2000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjaiswal2000&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages"/>
+  </a>
   
 </div>
 
@@ -177,6 +184,7 @@ Currently developing a real-time chat application with modern UI, message encryp
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-jaiswal12/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanjaiswal2000)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanjaiswal981108@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919818723026)
   
 </div>
 
@@ -208,25 +216,20 @@ Currently developing a real-time chat application with modern UI, message encryp
 
 ## 🎯 Current Focus
 
-```mermaid
-mindmap
-  root((Muskan's Dev Journey))
-    Full Stack Development
-      Spring Boot Backend
-      Flutter Frontend
-      REST APIs
-      Database Design
-    Learning Goals
-      Microservices
-      Cloud Deployment
-      Advanced Flutter
-      System Design
-    Career Goals
-      Software Developer Role
-      Contributing to Open Source
-      Building Scalable Applications
-      Continuous Learning
-```
+<div align="center">
+
+| 💻 Full Stack Development | 📚 Learning Goals | 🚀 Career Goals |
+|:---:|:---:|:---:|
+| 🔹 Spring Boot Backend | 🔹 Microservices Architecture | 🔹 Software Developer Role |
+| 🔹 Flutter Frontend | 🔹 Cloud Deployment (AWS/Azure) | 🔹 Contributing to Open Source |
+| 🔹 REST API Design | 🔹 Advanced Flutter | 🔹 Building Scalable Apps |
+| 🔹 Real-time Chat Systems | 🔹 System Design | 🔹 Continuous Learning |
+| 🔹 Database Optimization | 🔹 DevOps Practices | 🔹 Tech Community Building |
+
+### 🔥 Currently Working On
+**Full-Stack Chat Application** - Real-time messaging platform using **Java Spring Boot** + **Flutter** + **MongoDB**
+
+</div>
 
 ---
 
