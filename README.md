@@ -83,11 +83,11 @@ const muskan = {
 <div align="center">
   
   <a href="https://github.com/muskanjaiswal2000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskanjaiswal2000&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=15&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskanjaiswal2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   </a>
   
   <a href="https://github.com/muskanjaiswal2000">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanjaiswal2000&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" alt="GitHub Streak"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=muskanjaiswal2000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
   
 </div>
@@ -95,8 +95,14 @@ const muskan = {
 <div align="center">
   
   <a href="https://github.com/muskanjaiswal2000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjaiswal2000&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjaiswal2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   </a>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskanjaiswal2000&theme=tokyonight" alt="Profile Summary"/>
   
 </div>
 
@@ -106,7 +112,7 @@ const muskan = {
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=muskanjaiswal2000&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=muskanjaiswal2000&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
   
 </div>
 
@@ -116,7 +122,7 @@ const muskan = {
 
 <div align="center">
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muskanjaiswal2000&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/muskanjaiswal2000)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanjaiswal2000&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
   
 </div>
 
