@@ -15,20 +15,20 @@
 ```javascript
 const muskan = {
     location: "New Delhi, India 🇮🇳",
-    education: "MCA Student (Expected 2026)",
+    education: "MCA Graduate (2026)",
     currentFocus: "Full-Stack Chat Application (Spring Boot + Flutter)",
     availableFor: "Software Development & QA Roles",
-    interests: ["Web Development", "API Design", "Problem Solving"],
+    interests: ["Backend Development", "API Design", "Problem Solving"],
     lifePhilosophy: "Code, Debug, Learn, Repeat 🔄"
 };
 ```
 
 - 🔭 Currently building: **Full-Stack Chat Application** (Java Spring Boot + Flutter)
 - 🌱 Passionate about: **Full-Stack Development, API Testing & Database Design**
-- 💼 Previous: **Java Development Intern @ Oasis Infobyte**
+- 💼 Previous: **Software Developer Intern @ RCV Technologies**
 - 🎯 Goal: Contributing to innovative projects and continuous learning
-- 💬 Ask me about: **Java, Spring Boot, Laravel, PHP, REST APIs**
-- 📫 Reach me: **muskanjaiswal981108@gmail.com**
+- 💬 Ask me about: **Java, Spring Boot, Laravel, PHP, Python, REST APIs**
+- 📫 Reach me: **jaiswal.muskann@gmail.com**
 - ⚡ Fun fact: **I love turning complex problems into elegant solutions!**
 
 ---
@@ -44,7 +44,6 @@ const muskan = {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 
 ### 🚀 Frameworks & Technologies
@@ -53,7 +52,6 @@ const muskan = {
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
